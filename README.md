@@ -1,0 +1,2 @@
+# amaka
+git tutorial
